@@ -1,0 +1,71 @@
+{
+  "max_customer_id": 2,
+  "customers": {
+    "1": {
+      "name": "Jane",
+      "email": "email@email.com",
+      "ssn": "129903412",
+      "is_active": true,
+      "checking_accounts": [
+        "43227582156050409"
+      ],
+      "savings_accounts": [],
+      "credit_card_accounts": [
+        "6603236429935083"
+      ]
+    },
+    "2": {
+      "name": "Peter Ko",
+      "email": "pko@email.com",
+      "ssn": "345-67-9780",
+      "is_active": true,
+      "checking_accounts": [],
+      "savings_accounts": [],
+      "credit_card_accounts": []
+    }
+  },
+  "accounts": {
+    "39115617804224013": {
+      "is_active": true,
+      "date_opened": "12/28/2020",
+      "balance": 950,
+      "account_type": "checking",
+      "interest_rate": 0,
+      "debit_card": "4192327689320560"
+    },
+    "6603236429935083": {
+      "is_active": true,
+      "date_opened": "12/28/2020",
+      "balance": 2200,
+      "account_type": "credit",
+      "credit_limit": 10000,
+      "apr": 25,
+      "credit_card": "4916543655602290"
+    },
+    "43227582156050409": {
+      "is_active": true,
+      "date_opened": "12/28/2020",
+      "balance": 0,
+      "account_type": "checking",
+      "interest_rate": 0,
+      "debit_card": "4024007183538570"
+    },
+    "95583986030544428": {
+      "is_active": true,
+      "date_opened": "12/28/2020",
+      "balance": 0,
+      "account_type": "savings",
+      "interest_rate": 0.5,
+      "one_time_withdrawal_limit": 200.0
+    },
+    "6598185955248353": {
+      "is_active": false,
+      "date_opened": "12/28/2020",
+      "balance": 0,
+      "account_type": "credit",
+      "credit_limit": 50000.0,
+      "apr": 5.0,
+      "credit_card": "4686294222940110"
+    }
+  }
+}
