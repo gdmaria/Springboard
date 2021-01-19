@@ -1,0 +1,17 @@
+[
+  {
+    "city": "Barcelona",
+    "station_usaf": "081810",
+    "station_wban": "99999"
+  },
+  {
+    "city": "Manchester",
+    "station_usaf": "743945",
+    "station_wban": "14710"
+  },
+  {
+    "city": "M\u00fcnchen",
+    "station_usaf": "108660",
+    "station_wban": "99999"
+  }
+]
