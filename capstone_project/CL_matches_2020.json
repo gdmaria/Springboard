@@ -10,7 +10,7 @@
     "name": "UEFA Champions League",
     "code": "CL",
     "plan": "TIER_ONE",
-    "lastUpdated": "2020-12-10T10:40:03Z"
+    "lastUpdated": "2021-02-18T14:35:02Z"
   },
   "matches": [
     {
@@ -3509,7 +3509,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "Group G",
-      "lastUpdated": "2021-01-14T17:30:15Z",
+      "lastUpdated": "2021-02-03T11:30:22Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -3912,7 +3912,7 @@
           "id": 72624,
           "name": "Tomasz Kwiatkowski",
           "role": "REF",
-          "nationality": null
+          "nationality": "Poland"
         }
       ]
     },
@@ -5658,7 +5658,7 @@
           "id": 43956,
           "name": "Tom\u00e1\u0161 Somol\u00e1ni",
           "role": "REF",
-          "nationality": null
+          "nationality": "Slovakia"
         },
         {
           "id": 43884,
@@ -5873,7 +5873,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group B",
-      "lastUpdated": "2020-11-07T05:30:10Z",
+      "lastUpdated": "2021-01-25T14:30:13Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -5957,7 +5957,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group A",
-      "lastUpdated": "2020-11-04T04:20:03Z",
+      "lastUpdated": "2021-01-25T14:30:12Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -6041,7 +6041,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group B",
-      "lastUpdated": "2020-11-04T05:10:04Z",
+      "lastUpdated": "2021-01-25T14:30:13Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -6125,7 +6125,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group C",
-      "lastUpdated": "2020-11-04T04:20:03Z",
+      "lastUpdated": "2021-01-25T14:30:14Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -6209,7 +6209,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group C",
-      "lastUpdated": "2020-11-07T05:30:11Z",
+      "lastUpdated": "2021-01-25T14:30:14Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -6293,7 +6293,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group D",
-      "lastUpdated": "2020-11-07T05:30:12Z",
+      "lastUpdated": "2021-01-25T14:30:15Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -6629,7 +6629,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group E",
-      "lastUpdated": "2020-11-07T05:30:12Z",
+      "lastUpdated": "2021-01-25T14:30:16Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -6713,7 +6713,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group E",
-      "lastUpdated": "2020-11-07T05:30:12Z",
+      "lastUpdated": "2021-01-25T14:30:16Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -6797,7 +6797,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group F",
-      "lastUpdated": "2020-11-07T05:30:13Z",
+      "lastUpdated": "2021-01-25T14:30:17Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -6881,7 +6881,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group G",
-      "lastUpdated": "2020-11-07T05:30:14Z",
+      "lastUpdated": "2021-01-25T14:30:18Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -6965,7 +6965,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group G",
-      "lastUpdated": "2020-11-07T05:30:14Z",
+      "lastUpdated": "2021-02-03T11:30:22Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7049,7 +7049,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "Group H",
-      "lastUpdated": "2020-11-07T05:30:15Z",
+      "lastUpdated": "2021-01-25T14:30:19Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7122,7 +7122,7 @@
           "id": 72624,
           "name": "Tomasz Kwiatkowski",
           "role": "REF",
-          "nationality": null
+          "nationality": "Poland"
         }
       ]
     },
@@ -7139,7 +7139,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group E",
-      "lastUpdated": "2021-01-06T14:30:14Z",
+      "lastUpdated": "2021-01-25T16:30:16Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7194,6 +7194,18 @@
           "id": 43858,
           "name": "Serdar G\u00f6z\u00fcb\u00fcy\u00fck",
           "role": "FOURTH_OFFICIAL",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 15152,
+          "name": "Pol van Boekel",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 43861,
+          "name": "Dennis Higler",
+          "role": "ADDITIONAL_ASSISTANT_N2",
           "nationality": "Netherlands"
         }
       ]
@@ -7267,6 +7279,18 @@
           "name": "Fabio Maresca",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Italy"
+        },
+        {
+          "id": 11060,
+          "name": "Marco Di Bello",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Italy"
+        },
+        {
+          "id": 11043,
+          "name": "Maurizio Mariani",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Italy"
         }
       ]
     },
@@ -7283,7 +7307,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group F",
-      "lastUpdated": "2020-11-25T10:05:05Z",
+      "lastUpdated": "2021-01-25T16:30:17Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7339,6 +7363,24 @@
           "name": "Peter Kr\u00e1\u013eovi\u010d",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Slovakia"
+        },
+        {
+          "id": 43854,
+          "name": "Pawe\u0142 Gil",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Poland"
+        },
+        {
+          "id": 131857,
+          "name": "Pawel Gil",
+          "role": "ADDITIONAL_ASSISTANT_N1",
+          "nationality": "Poland"
+        },
+        {
+          "id": 43857,
+          "name": "Bartosz Frankowski",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Poland"
         }
       ]
     },
@@ -7355,7 +7397,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group F",
-      "lastUpdated": "2021-01-06T14:30:15Z",
+      "lastUpdated": "2021-01-25T16:30:17Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7411,6 +7453,18 @@
           "name": "Andy Madley",
           "role": "FOURTH_OFFICIAL",
           "nationality": "England"
+        },
+        {
+          "id": 11443,
+          "name": "Chris Kavanagh",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "England"
+        },
+        {
+          "id": 11585,
+          "name": "Craig Pawson",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "England"
         }
       ]
     },
@@ -7427,7 +7481,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group G",
-      "lastUpdated": "2021-01-06T14:30:15Z",
+      "lastUpdated": "2021-01-25T16:30:18Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7483,6 +7537,18 @@
           "name": "Harm Osmers",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Germany"
+        },
+        {
+          "id": 15821,
+          "name": "Marco Fritz",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Germany"
+        },
+        {
+          "id": 43876,
+          "name": "Mark Borsch",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Germany"
         }
       ]
     },
@@ -7499,7 +7565,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group G",
-      "lastUpdated": "2021-01-06T14:30:16Z",
+      "lastUpdated": "2021-01-25T16:30:18Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7554,6 +7620,18 @@
           "id": 111463,
           "name": "Nejc Kajtazovic",
           "role": "FOURTH_OFFICIAL",
+          "nationality": "Slovenia"
+        },
+        {
+          "id": 9567,
+          "name": "Sascha Stegemann",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Germany"
+        },
+        {
+          "id": 9347,
+          "name": "Jure Praprotnik",
+          "role": "ADDITIONAL_ASSISTANT_N2",
           "nationality": "Slovenia"
         }
       ]
@@ -7627,6 +7705,18 @@
           "name": "Marius Avram",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Romania"
+        },
+        {
+          "id": 38806,
+          "name": "Jo\u00e3o Pinheiro",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 111436,
+          "name": "Xavi Estrada",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Spain"
         }
       ]
     },
@@ -7643,7 +7733,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group H",
-      "lastUpdated": "2021-01-06T14:30:16Z",
+      "lastUpdated": "2021-01-25T16:30:19Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7699,6 +7789,18 @@
           "name": "Allard Lindhout",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Netherlands"
+        },
+        {
+          "id": 43902,
+          "name": "Kevin Blom",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 43716,
+          "name": "Jochem Kamphuis",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Netherlands"
         }
       ]
     },
@@ -7715,7 +7817,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group B",
-      "lastUpdated": "2021-01-06T14:30:11Z",
+      "lastUpdated": "2021-01-25T15:30:16Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7771,6 +7873,18 @@
           "name": "Halil Umut Meler",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Turkey"
+        },
+        {
+          "id": 30236,
+          "name": "Abdulkadir Bitigen",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Turkey"
+        },
+        {
+          "id": 15093,
+          "name": "Mete Kalkavan",
+          "role": "ADDITIONAL_ASSISTANT_N1",
+          "nationality": "Turkey"
         }
       ]
     },
@@ -7787,7 +7901,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group C",
-      "lastUpdated": "2021-01-06T14:30:12Z",
+      "lastUpdated": "2021-01-25T15:30:18Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7843,6 +7957,18 @@
           "name": "Paolo Valeri",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Italy"
+        },
+        {
+          "id": 11054,
+          "name": "Massimiliano Irrati",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Italy"
+        },
+        {
+          "id": 11048,
+          "name": "Alberto Tegoni",
+          "role": "ADDITIONAL_ASSISTANT_N1",
+          "nationality": "Italy"
         }
       ]
     },
@@ -7859,7 +7985,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group A",
-      "lastUpdated": "2021-01-06T14:30:11Z",
+      "lastUpdated": "2021-01-25T15:30:15Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7915,6 +8041,18 @@
           "name": "Eitan Shmuelevich",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Israel"
+        },
+        {
+          "id": 15664,
+          "name": "Roi Reinshreiber",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Israel"
+        },
+        {
+          "id": 72698,
+          "name": "David Fuxman",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Israel"
         }
       ]
     },
@@ -7931,7 +8069,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group A",
-      "lastUpdated": "2021-01-06T14:30:11Z",
+      "lastUpdated": "2021-01-25T15:30:15Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -7987,6 +8125,18 @@
           "name": "Rade Obrenovi\u0107",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Slovenia"
+        },
+        {
+          "id": 15746,
+          "name": "Bastian Dankert",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Germany"
+        },
+        {
+          "id": 26174,
+          "name": "Bibiana Steinhaus",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Germany"
         }
       ]
     },
@@ -8003,7 +8153,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group B",
-      "lastUpdated": "2021-01-06T14:30:11Z",
+      "lastUpdated": "2021-01-25T15:30:16Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8059,6 +8209,18 @@
           "name": "David Coote",
           "role": "FOURTH_OFFICIAL",
           "nationality": "England"
+        },
+        {
+          "id": 11494,
+          "name": "Stuart Attwell",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "England"
+        },
+        {
+          "id": 11530,
+          "name": "Lee Betts",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "England"
         }
       ]
     },
@@ -8075,7 +8237,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group C",
-      "lastUpdated": "2021-01-06T14:30:12Z",
+      "lastUpdated": "2021-01-25T15:30:18Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8131,6 +8293,18 @@
           "name": "Kristoffer Karlsson",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Sweden"
+        },
+        {
+          "id": 81,
+          "name": "Juan Mart\u00ednez",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Spain"
+        },
+        {
+          "id": 15628,
+          "name": "Ricardo de Burgos",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Spain"
         }
       ]
     },
@@ -8147,7 +8321,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group D",
-      "lastUpdated": "2021-01-06T14:30:13Z",
+      "lastUpdated": "2021-01-25T15:30:19Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8203,6 +8377,18 @@
           "name": "Jos\u00e9 Luis Munuera",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Spain"
+        },
+        {
+          "id": 15625,
+          "name": "Alejandro Hern\u00e1ndez",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Spain"
+        },
+        {
+          "id": 55934,
+          "name": "Guillermo Cuadra",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Spain"
         }
       ]
     },
@@ -8219,7 +8405,7 @@
       "matchday": 4,
       "stage": "GROUP_STAGE",
       "group": "Group D",
-      "lastUpdated": "2021-01-06T14:30:13Z",
+      "lastUpdated": "2021-01-25T15:30:19Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8274,6 +8460,18 @@
           "id": 43851,
           "name": "Kirill Levnikov",
           "role": "FOURTH_OFFICIAL",
+          "nationality": "Russia"
+        },
+        {
+          "id": 57636,
+          "name": "Vitaly Meshkov",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Russia"
+        },
+        {
+          "id": 57573,
+          "name": "Vladimir Moskalev",
+          "role": "ADDITIONAL_ASSISTANT_N2",
           "nationality": "Russia"
         }
       ]
@@ -8347,6 +8545,18 @@
           "name": "Arda Karde\u015fler",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Turkey"
+        },
+        {
+          "id": 30236,
+          "name": "Abdulkadir Bitigen",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Turkey"
+        },
+        {
+          "id": 15093,
+          "name": "Mete Kalkavan",
+          "role": "ADDITIONAL_ASSISTANT_N1",
+          "nationality": "Turkey"
         }
       ]
     },
@@ -8363,7 +8573,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group B",
-      "lastUpdated": "2021-01-06T14:30:12Z",
+      "lastUpdated": "2021-01-27T17:30:12Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8419,6 +8629,18 @@
           "name": "Sebastian Col\u021bescu",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Romania"
+        },
+        {
+          "id": 43854,
+          "name": "Pawe\u0142 Gil",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Poland"
+        },
+        {
+          "id": 43856,
+          "name": "Marcin Borkowski",
+          "role": "ADDITIONAL_ASSISTANT_N1",
+          "nationality": "Poland"
         }
       ]
     },
@@ -8435,7 +8657,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group A",
-      "lastUpdated": "2021-01-06T14:30:11Z",
+      "lastUpdated": "2021-01-27T17:30:11Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8491,6 +8713,18 @@
           "name": "Franck Schneider",
           "role": "FOURTH_OFFICIAL",
           "nationality": "France"
+        },
+        {
+          "id": 43918,
+          "name": "Fran\u00e7ois Letexier",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "France"
+        },
+        {
+          "id": 15548,
+          "name": "J\u00e9r\u00f4me Brisard",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "France"
         }
       ]
     },
@@ -8507,7 +8741,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group B",
-      "lastUpdated": "2021-01-06T14:30:12Z",
+      "lastUpdated": "2021-01-27T17:30:12Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8563,6 +8797,18 @@
           "name": "Ivan Kru\u017eliak",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Slovakia"
+        },
+        {
+          "id": 43902,
+          "name": "Kevin Blom",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 43716,
+          "name": "Jochem Kamphuis",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Netherlands"
         }
       ]
     },
@@ -8579,7 +8825,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group C",
-      "lastUpdated": "2021-01-06T14:30:13Z",
+      "lastUpdated": "2021-01-27T17:30:13Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8635,6 +8881,18 @@
           "name": "Fabio Maresca",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Italy"
+        },
+        {
+          "id": 15628,
+          "name": "Ricardo de Burgos",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Spain"
+        },
+        {
+          "id": 3158,
+          "name": "I\u00f1igo Prieto",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Spain"
         }
       ]
     },
@@ -8651,7 +8909,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group C",
-      "lastUpdated": "2021-01-06T14:30:13Z",
+      "lastUpdated": "2021-01-27T17:30:13Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8707,6 +8965,18 @@
           "name": "Lawrence Visser",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Belgium"
+        },
+        {
+          "id": 15152,
+          "name": "Pol van Boekel",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 17141,
+          "name": "Rob Dieperink",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Netherlands"
         }
       ]
     },
@@ -8723,7 +8993,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group D",
-      "lastUpdated": "2021-01-06T14:30:13Z",
+      "lastUpdated": "2021-01-27T17:30:14Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8779,6 +9049,18 @@
           "name": "Marco Fritz",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Germany"
+        },
+        {
+          "id": 15746,
+          "name": "Bastian Dankert",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Germany"
+        },
+        {
+          "id": 253,
+          "name": "Harm Osmers",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Germany"
         }
       ]
     },
@@ -8795,7 +9077,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group D",
-      "lastUpdated": "2021-01-06T14:30:13Z",
+      "lastUpdated": "2021-01-27T17:30:14Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8851,6 +9133,18 @@
           "name": "Ioannis Papadopoulos",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Greece"
+        },
+        {
+          "id": 57526,
+          "name": "Christian Dingert",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Germany"
+        },
+        {
+          "id": 26174,
+          "name": "Bibiana Steinhaus",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Germany"
         }
       ]
     },
@@ -8923,6 +9217,18 @@
           "name": "Nick Walsh",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Scotland"
+        },
+        {
+          "id": 11520,
+          "name": "Paul Tierney",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "England"
+        },
+        {
+          "id": 11606,
+          "name": "Constantine Hatzidakis",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "England"
         }
       ]
     },
@@ -8939,7 +9245,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group H",
-      "lastUpdated": "2021-01-06T14:30:16Z",
+      "lastUpdated": "2021-01-26T17:30:15Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -8995,6 +9301,18 @@
           "name": "Guillermo Cuadra",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Spain"
+        },
+        {
+          "id": 81,
+          "name": "Juan Mart\u00ednez",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Spain"
+        },
+        {
+          "id": 43873,
+          "name": "Diego Barbero",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Spain"
         }
       ]
     },
@@ -9011,7 +9329,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group E",
-      "lastUpdated": "2021-01-06T14:30:14Z",
+      "lastUpdated": "2021-01-26T17:30:13Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -9067,6 +9385,18 @@
           "name": "Hugo Miguel",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Portugal"
+        },
+        {
+          "id": 15713,
+          "name": "Tiago Martins",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 37629,
+          "name": "Lu\u00eds Godinho",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Portugal"
         }
       ]
     },
@@ -9083,7 +9413,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group F",
-      "lastUpdated": "2021-01-06T14:30:15Z",
+      "lastUpdated": "2021-01-26T17:30:14Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -9139,6 +9469,18 @@
           "name": "Jos\u00e9 Luis Munuera",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Spain"
+        },
+        {
+          "id": 15625,
+          "name": "Alejandro Hern\u00e1ndez",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Spain"
+        },
+        {
+          "id": 106,
+          "name": "Jos\u00e9 S\u00e1nchez",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Spain"
         }
       ]
     },
@@ -9155,7 +9497,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group F",
-      "lastUpdated": "2020-12-03T02:45:02Z",
+      "lastUpdated": "2021-01-26T17:30:14Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -9211,6 +9553,18 @@
           "name": "Allard Lindhout",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Netherlands"
+        },
+        {
+          "id": 43861,
+          "name": "Dennis Higler",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 56905,
+          "name": "Bas Nijhuis",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Netherlands"
         }
       ]
     },
@@ -9227,7 +9581,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group G",
-      "lastUpdated": "2021-01-06T14:30:16Z",
+      "lastUpdated": "2021-01-26T17:30:15Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -9283,6 +9637,18 @@
           "name": "Karim Abed",
           "role": "FOURTH_OFFICIAL",
           "nationality": "France"
+        },
+        {
+          "id": 15545,
+          "name": "Beno\u00eet Millot",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "France"
+        },
+        {
+          "id": 57042,
+          "name": "Willy Delajod",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "France"
         }
       ]
     },
@@ -9299,7 +9665,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group G",
-      "lastUpdated": "2021-01-06T14:30:16Z",
+      "lastUpdated": "2021-02-03T11:30:23Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -9355,6 +9721,18 @@
           "name": "Viktor Shimusik",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Belarus"
+        },
+        {
+          "id": 57636,
+          "name": "Vitaly Meshkov",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Russia"
+        },
+        {
+          "id": 43941,
+          "name": "Sergey Ivanov",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Russia"
         }
       ]
     },
@@ -9371,7 +9749,7 @@
       "matchday": 5,
       "stage": "GROUP_STAGE",
       "group": "Group H",
-      "lastUpdated": "2020-12-03T03:40:03Z",
+      "lastUpdated": "2021-01-26T17:30:16Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -9426,6 +9804,18 @@
           "id": 11065,
           "name": "Daniele Doveri",
           "role": "FOURTH_OFFICIAL",
+          "nationality": "Italy"
+        },
+        {
+          "id": 11079,
+          "name": "Marco Guida",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Italy"
+        },
+        {
+          "id": 11060,
+          "name": "Marco Di Bello",
+          "role": "ADDITIONAL_ASSISTANT_N2",
           "nationality": "Italy"
         }
       ]
@@ -9499,6 +9889,18 @@
           "name": "Marius Avram",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Romania"
+        },
+        {
+          "id": 43716,
+          "name": "Jochem Kamphuis",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 43902,
+          "name": "Kevin Blom",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Netherlands"
         }
       ]
     },
@@ -9515,7 +9917,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group F",
-      "lastUpdated": "2020-12-09T12:05:09Z",
+      "lastUpdated": "2021-02-03T16:30:18Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -9570,6 +9972,18 @@
           "id": 30645,
           "name": "H\u00fcseyin G\u00f6\u00e7ek",
           "role": "FOURTH_OFFICIAL",
+          "nationality": "Turkey"
+        },
+        {
+          "id": 30236,
+          "name": "Abdulkadir Bitigen",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Turkey"
+        },
+        {
+          "id": 15093,
+          "name": "Mete Kalkavan",
+          "role": "ADDITIONAL_ASSISTANT_N2",
           "nationality": "Turkey"
         }
       ]
@@ -9643,6 +10057,18 @@
           "name": "Miroslav Zelinka",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Czech Republic"
+        },
+        {
+          "id": 11075,
+          "name": "Paolo Valeri",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Italy"
+        },
+        {
+          "id": 11054,
+          "name": "Massimiliano Irrati",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Italy"
         }
       ]
     },
@@ -9659,7 +10085,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group E",
-      "lastUpdated": "2021-01-06T14:30:14Z",
+      "lastUpdated": "2021-02-03T16:30:17Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -9715,6 +10141,24 @@
           "name": "Daniel Stefa\u0144ski",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Poland"
+        },
+        {
+          "id": 43888,
+          "name": "Szymon Marciniak",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Poland"
+        },
+        {
+          "id": 43892,
+          "name": "Pawe\u0142 Raczkowski",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Poland"
+        },
+        {
+          "id": 15545,
+          "name": "Beno\u00eet Millot",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "France"
         }
       ]
     },
@@ -9731,7 +10175,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group G",
-      "lastUpdated": "2021-01-06T14:30:16Z",
+      "lastUpdated": "2021-02-03T16:30:18Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -9787,6 +10231,18 @@
           "name": "Serdar G\u00f6z\u00fcb\u00fcy\u00fck",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Netherlands"
+        },
+        {
+          "id": 15746,
+          "name": "Bastian Dankert",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Germany"
+        },
+        {
+          "id": 57521,
+          "name": "Ren\u00e9 Rohde",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Germany"
         }
       ]
     },
@@ -9859,6 +10315,18 @@
           "name": "Kristoffer Karlsson",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Sweden"
+        },
+        {
+          "id": 57526,
+          "name": "Christian Dingert",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Germany"
+        },
+        {
+          "id": 15408,
+          "name": "Daniel Siebert",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Germany"
         }
       ]
     },
@@ -9875,7 +10343,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group H",
-      "lastUpdated": "2021-01-06T14:30:17Z",
+      "lastUpdated": "2021-02-03T16:30:19Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -9931,6 +10399,18 @@
           "name": "F\u00e1bio Ver\u00edssimo",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Portugal"
+        },
+        {
+          "id": 15625,
+          "name": "Alejandro Hern\u00e1ndez",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Spain"
+        },
+        {
+          "id": 15628,
+          "name": "Ricardo de Burgos",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Spain"
         }
       ]
     },
@@ -9947,7 +10427,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group D",
-      "lastUpdated": "2021-01-06T14:30:14Z",
+      "lastUpdated": "2021-02-03T15:30:15Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -10003,6 +10483,18 @@
           "name": "Georgi Kabakov",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Bulgaria"
+        },
+        {
+          "id": 81,
+          "name": "Juan Mart\u00ednez",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Spain"
+        },
+        {
+          "id": 156900,
+          "name": "Estrada Fernandez ",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Spain"
         }
       ]
     },
@@ -10019,7 +10511,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group D",
-      "lastUpdated": "2021-01-06T14:30:14Z",
+      "lastUpdated": "2021-02-03T15:30:15Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -10075,6 +10567,18 @@
           "name": "Amaury Delerue",
           "role": "FOURTH_OFFICIAL",
           "nationality": "France"
+        },
+        {
+          "id": 9374,
+          "name": "Cl\u00e9ment Turpin",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "France"
+        },
+        {
+          "id": 15548,
+          "name": "J\u00e9r\u00f4me Brisard",
+          "role": "ADDITIONAL_ASSISTANT_N1",
+          "nationality": "France"
         }
       ]
     },
@@ -10091,7 +10595,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group H",
-      "lastUpdated": "2021-01-06T14:30:17Z",
+      "lastUpdated": "2021-02-03T16:30:19Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -10149,6 +10653,18 @@
           "nationality": "Romania"
         },
         {
+          "id": 11060,
+          "name": "Marco Di Bello",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Italy"
+        },
+        {
+          "id": 11043,
+          "name": "Maurizio Mariani",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Italy"
+        },
+        {
           "id": 43899,
           "name": "Danny Makkelie",
           "role": "MAIN_REFEREE",
@@ -10187,7 +10703,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group A",
-      "lastUpdated": "2021-01-06T14:30:11Z",
+      "lastUpdated": "2021-02-03T15:30:12Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -10245,10 +10761,22 @@
           "nationality": "Switzerland"
         },
         {
+          "id": 11054,
+          "name": "Massimiliano Irrati",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Italy"
+        },
+        {
           "id": 31257,
           "name": "Jonas Erni",
           "role": "ASSISTANT_N2",
           "nationality": "Switzerland"
+        },
+        {
+          "id": 11075,
+          "name": "Paolo Valeri",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Italy"
         }
       ]
     },
@@ -10265,7 +10793,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group A",
-      "lastUpdated": "2021-01-06T14:30:11Z",
+      "lastUpdated": "2021-02-03T15:30:12Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -10320,6 +10848,18 @@
           "id": 11585,
           "name": "Craig Pawson",
           "role": "FOURTH_OFFICIAL",
+          "nationality": "England"
+        },
+        {
+          "id": 11494,
+          "name": "Stuart Attwell",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "England"
+        },
+        {
+          "id": 11520,
+          "name": "Paul Tierney",
+          "role": "ADDITIONAL_ASSISTANT_N2",
           "nationality": "England"
         }
       ]
@@ -10393,6 +10933,18 @@
           "name": "Allard Lindhout",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Netherlands"
+        },
+        {
+          "id": 15152,
+          "name": "Pol van Boekel",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 43861,
+          "name": "Dennis Higler",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Netherlands"
         }
       ]
     },
@@ -10409,7 +10961,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group B",
-      "lastUpdated": "2021-01-06T14:30:12Z",
+      "lastUpdated": "2021-02-03T15:30:13Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -10465,6 +11017,24 @@
           "name": "Rade Obrenovi\u0107",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Slovenia"
+        },
+        {
+          "id": 43854,
+          "name": "Pawe\u0142 Gil",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Poland"
+        },
+        {
+          "id": 131857,
+          "name": "Pawel Gil",
+          "role": "ADDITIONAL_ASSISTANT_N1",
+          "nationality": "Poland"
+        },
+        {
+          "id": 9347,
+          "name": "Jure Praprotnik",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Slovenia"
         }
       ]
     },
@@ -10481,7 +11051,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group C",
-      "lastUpdated": "2020-12-10T10:35:03Z",
+      "lastUpdated": "2021-02-03T15:30:14Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -10537,6 +11107,18 @@
           "name": "Arda Karde\u015fler",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Turkey"
+        },
+        {
+          "id": 9567,
+          "name": "Sascha Stegemann",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Germany"
+        },
+        {
+          "id": 30784,
+          "name": "Ali Palab\u0131y\u0131k",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Turkey"
         }
       ]
     },
@@ -10553,7 +11135,7 @@
       "matchday": 6,
       "stage": "GROUP_STAGE",
       "group": "Group C",
-      "lastUpdated": "2021-01-06T14:30:13Z",
+      "lastUpdated": "2021-02-03T15:30:14Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -10609,6 +11191,18 @@
           "name": "Donatas Rum\u0161as",
           "role": "FOURTH_OFFICIAL",
           "nationality": "Lithuania"
+        },
+        {
+          "id": 15821,
+          "name": "Marco Fritz",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Germany"
+        },
+        {
+          "id": 253,
+          "name": "Harm Osmers",
+          "role": "ADDITIONAL_ASSISTANT_N2",
+          "nationality": "Germany"
         }
       ]
     },
@@ -10621,24 +11215,24 @@
         "currentMatchday": 6
       },
       "utcDate": "2021-02-16T20:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
-      "lastUpdated": "2020-12-14T19:30:18Z",
+      "lastUpdated": "2021-02-17T11:30:03Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 2
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "extraTime": {
           "homeTeam": null,
@@ -10657,7 +11251,38 @@
         "id": 64,
         "name": "Liverpool FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 9351,
+          "name": "Slavko Vin\u010di\u010d",
+          "role": "MAIN_REFEREE",
+          "nationality": "Slovenia"
+        },
+        {
+          "id": 9349,
+          "name": "Toma\u017e Klan\u010dnik",
+          "role": "ASSISTANT_N1",
+          "nationality": "Slovenia"
+        },
+        {
+          "id": 43934,
+          "name": "Andra\u017e Kova\u010di\u010d",
+          "role": "ASSISTANT_N2",
+          "nationality": "Slovenia"
+        },
+        {
+          "id": 9350,
+          "name": "Matej Jug",
+          "role": "FOURTH_OFFICIAL",
+          "nationality": "Slovenia"
+        },
+        {
+          "id": 11054,
+          "name": "Massimiliano Irrati",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Italy"
+        }
+      ]
     },
     {
       "id": 315760,
@@ -10668,24 +11293,24 @@
         "currentMatchday": 6
       },
       "utcDate": "2021-02-16T20:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
-      "lastUpdated": "2020-12-14T19:30:18Z",
+      "lastUpdated": "2021-02-17T11:30:03Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 1,
+          "awayTeam": 4
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 1,
+          "awayTeam": 1
         },
         "extraTime": {
           "homeTeam": null,
@@ -10704,7 +11329,38 @@
         "id": 524,
         "name": "Paris Saint-Germain FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 9558,
+          "name": "Bj\u00f6rn Kuipers",
+          "role": "MAIN_REFEREE",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 9559,
+          "name": "Sander van Roekel",
+          "role": "ASSISTANT_N1",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 9560,
+          "name": "Erwin Zeinstra",
+          "role": "ASSISTANT_N2",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 43858,
+          "name": "Serdar G\u00f6z\u00fcb\u00fcy\u00fck",
+          "role": "FOURTH_OFFICIAL",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 15152,
+          "name": "Pol van Boekel",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "id": 315758,
@@ -10715,24 +11371,24 @@
         "currentMatchday": 6
       },
       "utcDate": "2021-02-17T20:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
-      "lastUpdated": "2020-12-14T19:30:18Z",
+      "lastUpdated": "2021-02-18T14:30:02Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 2,
+          "awayTeam": 1
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 1,
+          "awayTeam": 0
         },
         "extraTime": {
           "homeTeam": null,
@@ -10751,7 +11407,38 @@
         "id": 109,
         "name": "Juventus FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 43843,
+          "name": "Carlos del Cerro",
+          "role": "MAIN_REFEREE",
+          "nationality": "Spain"
+        },
+        {
+          "id": 43844,
+          "name": "Juan Carlos Yuste",
+          "role": "ASSISTANT_N1",
+          "nationality": "Spain"
+        },
+        {
+          "id": 43872,
+          "name": "Roberto Alonso",
+          "role": "ASSISTANT_N2",
+          "nationality": "Spain"
+        },
+        {
+          "id": 106,
+          "name": "Jos\u00e9 S\u00e1nchez",
+          "role": "FOURTH_OFFICIAL",
+          "nationality": "Spain"
+        },
+        {
+          "id": 15625,
+          "name": "Alejandro Hern\u00e1ndez",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "id": 315762,
@@ -10762,24 +11449,24 @@
         "currentMatchday": 6
       },
       "utcDate": "2021-02-17T20:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
-      "lastUpdated": "2020-12-14T19:30:18Z",
+      "lastUpdated": "2021-02-18T14:35:02Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 2,
+          "awayTeam": 3
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 1,
+          "awayTeam": 3
         },
         "extraTime": {
           "homeTeam": null,
@@ -10798,7 +11485,38 @@
         "id": 4,
         "name": "Borussia Dortmund"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 43899,
+          "name": "Danny Makkelie",
+          "role": "MAIN_REFEREE",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 43900,
+          "name": "Hessel Steegstra",
+          "role": "ASSISTANT_N1",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 43874,
+          "name": "Mario Diks",
+          "role": "ASSISTANT_N2",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 9561,
+          "name": "Allard Lindhout",
+          "role": "FOURTH_OFFICIAL",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 43902,
+          "name": "Kevin Blom",
+          "role": "VIDEO_ASSISTANT_REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "id": 315752,
@@ -10860,7 +11578,7 @@
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
-      "lastUpdated": "2020-12-14T19:30:18Z",
+      "lastUpdated": "2021-02-12T14:30:17Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
@@ -10907,7 +11625,7 @@
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
-      "lastUpdated": "2020-12-14T19:30:17Z",
+      "lastUpdated": "2021-02-08T20:30:17Z",
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },

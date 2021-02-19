@@ -1,0 +1,70 @@
+2021-02-19 13:12:29     INFO football_data | STARTING DATA PIPELINE | MODE: INITIAL RUN
+2021-02-19 13:12:29     INFO football_data | STARTING DATA EXTRACTION | MODE: INITIAL RUN
+2021-02-19 13:12:29     INFO football_data | STEP 1: Starting competitions download.
+2021-02-19 13:12:30     INFO football_data | STEP 1: Competitions download completed. 1 file, 152 records.
+2021-02-19 13:12:30     INFO football_data | STEP 2: Starting seasons download.
+2021-02-19 13:12:30     INFO football_data | STEP 2: Seasons download completed. 1 file, 20 records.
+2021-02-19 13:12:30     INFO football_data | STEP 3: Starting teams download.
+2021-02-19 13:12:31     INFO football_data | STEP 3: Teams download completed. 3 files of 3 downloaded successfully.
+2021-02-19 13:12:31     INFO football_data | STEP 3: Teams file /v2/competitions/CL/teams?season=2020 download completed. 79 records.
+2021-02-19 13:12:31     INFO football_data | STEP 3: Teams file /v2/competitions/CL/teams?season=2019 download completed. 79 records.
+2021-02-19 13:12:31     INFO football_data | STEP 3: Teams file /v2/competitions/CL/teams?season=2018 download completed. 79 records.
+2021-02-19 13:12:31     INFO football_data | STEP 4: Starting matches download.
+2021-02-19 13:12:33     INFO football_data | STEP 4: Matches download completed. 3 files of 3 downloaded successfully.
+2021-02-19 13:12:33     INFO football_data | STEP 4: Matches file /v2/competitions/CL/matches?season=2020 download completed. 165 records.
+2021-02-19 13:12:33     INFO football_data | STEP 4: Matches file /v2/competitions/CL/matches?season=2019 download completed. 210 records.
+2021-02-19 13:12:33     INFO football_data | STEP 4: Matches file /v2/competitions/CL/matches?season=2018 download completed. 216 records.
+2021-02-19 13:12:33     INFO football_data | STEP 5: Starting weather reports download.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather reports download completed. 12 files of 12 downloaded successfully.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2020/08181099999.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2020/74394514710.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2020/10866099999.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2019/08181099999.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2019/74394514710.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2019/10866099999.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2018/08181099999.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2018/74394514710.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2018/10866099999.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/08181099999.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/74394514710.csv download completed.
+2021-02-19 13:12:34     INFO football_data | STEP 5: Weather report https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/10866099999.csv download completed.
+2021-02-19 13:12:34     INFO football_data | DATA EXTRACTION COMPLETED
+2021-02-19 13:12:34     INFO football_data | STARTING DATA TRANSFORMATION | MODE: INITIAL RUN
+2021-02-19 13:12:34     INFO football_data | STEP 1: Starting teams cleanup.
+2021-02-19 13:12:34     INFO football_data | STEP 1: Teams cleanup completed. 3 files processed.
+2021-02-19 13:12:34     INFO football_data | STEP 2: Starting matches cleanup.
+2021-02-19 13:12:34     INFO football_data | STEP 2: Matches cleanup completed. 3 files processed.
+2021-02-19 13:12:34     INFO football_data | DATA TRANSFORMATION COMPLETED
+2021-02-19 13:12:34     INFO football_data | STARTING DATA LOAD | MODE: INITIAL RUN
+2021-02-19 13:12:34     INFO football_data | STEP 1: Starting competitions upload.
+2021-02-19 13:12:35     INFO football_data | STEP 1: Competitions upload completed. {'inserted_count': 152}.
+2021-02-19 13:12:35     INFO football_data | STEP 2: Starting seasons upload.
+2021-02-19 13:12:35     INFO football_data | STEP 2: Seasons upload completed. {'inserted_count': 20}.
+2021-02-19 13:12:35     INFO football_data | STEP 3: Starting stations upload.
+2021-02-19 13:12:35     INFO football_data | STEP 3: Stations upload completed. {'inserted_count': 3}.
+2021-02-19 13:12:35     INFO football_data | STEP 4: Starting teams upload.
+2021-02-19 13:12:40     INFO football_data | STEP 4: Teams upload completed. 3 files of 3 downloaded successfully.
+2021-02-19 13:12:40     INFO football_data | STEP 4: Teams file CL_teams_2018_clean.json upload completed. {'matched_count': 79, 'modified_count': 79, 'upserted_count': 0}.
+2021-02-19 13:12:40     INFO football_data | STEP 4: Teams file CL_teams_2019_clean.json upload completed. {'matched_count': 79, 'modified_count': 79, 'upserted_count': 0}.
+2021-02-19 13:12:40     INFO football_data | STEP 4: Teams file CL_teams_2020_clean.json upload completed. {'matched_count': 79, 'modified_count': 79, 'upserted_count': 0}.
+2021-02-19 13:12:40     INFO football_data | STEP 5: Starting matches upload.
+2021-02-19 13:12:40     INFO football_data | STEP 5: Matches upload completed. 3 files of 3 downloaded successfully.
+2021-02-19 13:12:40     INFO football_data | STEP 5: Matches file CL_matches_2018_clean.json upload completed. {'inserted_count': 216}.
+2021-02-19 13:12:40     INFO football_data | STEP 5: Matches file CL_matches_2019_clean.json upload completed. {'inserted_count': 210}.
+2021-02-19 13:12:40     INFO football_data | STEP 5: Matches file CL_matches_2020_clean.json upload completed. {'inserted_count': 165}.
+2021-02-19 13:12:40     INFO football_data | STEP 6: Starting weather reports upload.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather reports upload completed. 12 files of 12 downloaded successfully.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 08181099999_2020.csv upload completed. {'inserted_count': 366}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 74394514710_2020.csv upload completed. {'inserted_count': 366}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 10866099999_2020.csv upload completed. {'inserted_count': 366}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 08181099999_2019.csv upload completed. {'inserted_count': 365}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 74394514710_2019.csv upload completed. {'inserted_count': 365}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 10866099999_2019.csv upload completed. {'inserted_count': 365}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 08181099999_2018.csv upload completed. {'inserted_count': 365}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 74394514710_2018.csv upload completed. {'inserted_count': 365}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 10866099999_2018.csv upload completed. {'inserted_count': 365}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 08181099999_2021.csv upload completed. {'inserted_count': 41}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 74394514710_2021.csv upload completed. {'inserted_count': 47}.
+2021-02-19 13:12:41     INFO football_data | STEP 6: Weather report file 10866099999_2021.csv upload completed. {'inserted_count': 41}.
+2021-02-19 13:12:41     INFO football_data | DATA LOAD COMPLETED
+2021-02-19 13:12:41     INFO football_data | CLOSING DATA PIPELINE | MODE: INITIAL RUN

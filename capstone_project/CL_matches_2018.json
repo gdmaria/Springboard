@@ -10,7 +10,7 @@
     "name": "UEFA Champions League",
     "code": "CL",
     "plan": "TIER_ONE",
-    "lastUpdated": "2020-12-10T10:40:03Z"
+    "lastUpdated": "2021-02-18T14:35:02Z"
   },
   "matches": [
     {
@@ -855,7 +855,7 @@
           "id": 63034,
           "name": "Ferenc Karak\u00f3",
           "role": "REF",
-          "nationality": null
+          "nationality": "Hungary"
         },
         {
           "id": 63090,
@@ -1737,7 +1737,7 @@
           "id": 72624,
           "name": "Tomasz Kwiatkowski",
           "role": "REF",
-          "nationality": null
+          "nationality": "Poland"
         }
       ]
     },
@@ -2235,7 +2235,7 @@
           "id": 42697,
           "name": "Eliyahu Casapu",
           "role": "REF",
-          "nationality": null
+          "nationality": "Israel"
         },
         {
           "id": 72698,
@@ -3033,7 +3033,7 @@
           "id": 63034,
           "name": "Ferenc Karak\u00f3",
           "role": "REF",
-          "nationality": null
+          "nationality": "Hungary"
         }
       ]
     },
@@ -3609,7 +3609,7 @@
           "id": 40738,
           "name": "Daniel Bar Natan",
           "role": "REF",
-          "nationality": null
+          "nationality": "Israel"
         }
       ]
     },
@@ -5049,7 +5049,7 @@
           "id": 43834,
           "name": "Zbigniew Dobrynin",
           "role": "REF",
-          "nationality": null
+          "nationality": "Poland"
         }
       ]
     },
@@ -5685,7 +5685,7 @@
           "id": 43956,
           "name": "Tom\u00e1\u0161 Somol\u00e1ni",
           "role": "REF",
-          "nationality": null
+          "nationality": "Slovakia"
         },
         {
           "id": 43957,
@@ -8475,7 +8475,7 @@
           "id": 72624,
           "name": "Tomasz Kwiatkowski",
           "role": "REF",
-          "nationality": null
+          "nationality": "Poland"
         },
         {
           "id": 43893,
@@ -8955,7 +8955,7 @@
           "id": 43956,
           "name": "Tom\u00e1\u0161 Somol\u00e1ni",
           "role": "REF",
-          "nationality": null
+          "nationality": "Slovakia"
         },
         {
           "id": 43957,
@@ -10953,7 +10953,7 @@
           "id": 43956,
           "name": "Tom\u00e1\u0161 Somol\u00e1ni",
           "role": "REF",
-          "nationality": null
+          "nationality": "Slovakia"
         }
       ]
     },
@@ -12273,7 +12273,7 @@
           "id": 43956,
           "name": "Tom\u00e1\u0161 Somol\u00e1ni",
           "role": "REF",
-          "nationality": null
+          "nationality": "Slovakia"
         },
         {
           "id": 43957,

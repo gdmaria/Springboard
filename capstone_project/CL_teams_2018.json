@@ -10,7 +10,7 @@
     "name": "UEFA Champions League",
     "code": "CL",
     "plan": "TIER_ONE",
-    "lastUpdated": "2020-12-10T10:40:03Z"
+    "lastUpdated": "2021-02-18T14:35:02Z"
   },
   "season": {
     "id": 175,
@@ -37,7 +37,7 @@
       "founded": 1921,
       "clubColors": "Blue / White",
       "venue": "PreZero Arena",
-      "lastUpdated": "2020-11-26T02:17:04Z"
+      "lastUpdated": "2021-02-15T08:45:46Z"
     },
     {
       "id": 4,
@@ -113,7 +113,7 @@
       "founded": 1892,
       "clubColors": "Red / White",
       "venue": "Anfield",
-      "lastUpdated": "2020-11-20T09:46:14Z"
+      "lastUpdated": "2021-01-20T14:05:30Z"
     },
     {
       "id": 65,
@@ -189,7 +189,7 @@
       "founded": 1903,
       "clubColors": "Red / White / Blue",
       "venue": "Estadio Wanda Metropolitano",
-      "lastUpdated": "2020-11-26T02:18:20Z"
+      "lastUpdated": "2021-02-08T10:09:17Z"
     },
     {
       "id": 81,
@@ -208,7 +208,7 @@
       "founded": 1899,
       "clubColors": "Red / Navy Blue / Orange",
       "venue": "Camp Nou",
-      "lastUpdated": "2020-11-26T02:18:23Z"
+      "lastUpdated": "2021-02-08T10:15:43Z"
     },
     {
       "id": 86,
@@ -226,8 +226,8 @@
       "email": "atencionpublico@corp.realmadrid.com",
       "founded": 1902,
       "clubColors": "White / Purple",
-      "venue": "Estadio Alfredo Di St\u00e9fano",
-      "lastUpdated": "2020-11-26T02:18:30Z"
+      "venue": "Estadio Santiago Bernab\u00e9u",
+      "lastUpdated": "2021-02-08T10:15:45Z"
     },
     {
       "id": 95,
@@ -360,7 +360,7 @@
       "founded": 1896,
       "clubColors": "White / Red / Blue",
       "venue": "Groupama Stadium",
-      "lastUpdated": "2020-11-26T02:02:47Z"
+      "lastUpdated": "2021-02-06T18:01:36Z"
     },
     {
       "id": 524,
@@ -379,7 +379,7 @@
       "founded": 1904,
       "clubColors": "Red / Blue / White",
       "venue": "Parc des Princes",
-      "lastUpdated": "2020-11-26T02:22:54Z"
+      "lastUpdated": "2021-02-06T18:01:38Z"
     },
     {
       "id": 548,
@@ -398,7 +398,7 @@
       "founded": 1919,
       "clubColors": "Red / White",
       "venue": "Stade Louis II.",
-      "lastUpdated": "2020-11-26T02:03:11Z"
+      "lastUpdated": "2021-02-06T18:02:15Z"
     },
     {
       "id": 610,
@@ -531,7 +531,7 @@
       "founded": 1887,
       "clubColors": "Green / White",
       "venue": "Celtic Park",
-      "lastUpdated": "2020-11-26T02:10:11Z"
+      "lastUpdated": "2021-02-06T18:16:56Z"
     },
     {
       "id": 748,
@@ -1348,7 +1348,7 @@
       "founded": 1941,
       "clubColors": "Red / Blue",
       "venue": "MOL Ar\u00e9na S\u00f3st\u00f3",
-      "lastUpdated": "2020-11-19T02:06:53Z"
+      "lastUpdated": "2021-02-06T18:12:38Z"
     },
     {
       "id": 6146,
