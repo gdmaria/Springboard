@@ -1,0 +1,25 @@
+2021-02-21 18:55:00     INFO event_ticket_system | STARTING DATA PIPELINE
+2021-02-21 18:55:00     INFO event_ticket_system | STEP 1: Connecting to database.
+2021-02-21 18:55:00     INFO event_ticket_system | STEP 1: Connection to database established.
+2021-02-21 18:55:00     INFO event_ticket_system | STEP 2: Loading data to database.
+2021-02-21 18:55:00     INFO event_ticket_system | STEP 2: Loading data to database completed.
+2021-02-21 18:55:00     INFO event_ticket_system | STEP 3: Retrieving most popular event(s) from database.
+2021-02-21 18:55:00     INFO event_ticket_system | [(103, 'Christmas Spectacular'), (100, 'The North American International Auto Show')]
+2021-02-21 18:55:00     INFO event_ticket_system | STEP 3: Retrieving most popular event(s) from database completed.
+2021-02-21 18:55:53     INFO event_ticket_system | STARTING DATA PIPELINE
+2021-02-21 18:55:53     INFO event_ticket_system | STEP 1: Connecting to database.
+2021-02-21 18:55:53 CRITICAL event_ticket_system | STEP 1: Error while connecting to database, data load terminated. 1045 (28000): Access denied for user 'rot'@'localhost' (using password: YES).
+2021-02-21 18:56:29     INFO event_ticket_system | STARTING DATA PIPELINE
+2021-02-21 18:56:29     INFO event_ticket_system | STEP 1: Connecting to database.
+2021-02-21 18:56:29     INFO event_ticket_system | STEP 1: Connection to database established.
+2021-02-21 18:56:29     INFO event_ticket_system | STEP 2: Loading data to database.
+2021-02-21 18:56:29 CRITICAL event_ticket_system | STEP 2: Error while loading data to database, data load terminated. 1146 (42S02): Table 'event_ticket_system.ticket_sale' doesn't exist.
+2021-02-21 18:56:50     INFO event_ticket_system | STARTING DATA PIPELINE
+2021-02-21 18:56:50     INFO event_ticket_system | STEP 1: Connecting to database.
+2021-02-21 18:56:50     INFO event_ticket_system | STEP 1: Connection to database established.
+2021-02-21 18:56:50     INFO event_ticket_system | STEP 2: Loading data to database.
+2021-02-21 18:56:50     INFO event_ticket_system | STEP 2: Loading data to database completed.
+2021-02-21 18:56:50     INFO event_ticket_system | STEP 3: Retrieving most popular event(s) from database.
+2021-02-21 18:56:50 CRITICAL event_ticket_system | STEP 2: Error while retrieving most popular event(s) from database. 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A
+                        (
+                            SELECT event_id, event_n' at line 1.
