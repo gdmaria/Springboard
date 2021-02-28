@@ -1,0 +1,2 @@
+hadoop jar /usr/hdp/2.5.0.0-1245/hadoop-mapreduce/hadoop-streaming.jar -file mrjob/mapper1.py -mapper mrjob/mapper1.py -file mrjob/reducer1.py -reducer mrjob/reducer1.py -input /test_data/input/data.csv -output /test_data/output/all_accidents
+hadoop jar /usr/hdp/2.5.0.0-1245/hadoop-mapreduce/hadoop-streaming.jar -file mrjob/mapper2.py -mapper mrjob/mapper2.py -file mrjob/reducer2.py -reducer mrjob/reducer2.py -input /test_data/output/all_accidents -output /test_data/output/make_year_count
